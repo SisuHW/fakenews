@@ -94,7 +94,7 @@ nav ul li a:hover {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color:black;
+  background-color:blue;
   padding: 8px;
 }
 .grid-item {
